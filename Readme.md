@@ -1,4 +1,4 @@
-This repository if a fork from https://github.com/alrouen/local-aws-glue-v3-zeppelin
+This repository is forked from https://github.com/alrouen/local-aws-glue-v3-zeppelin 
 
 # Build docker image
 
