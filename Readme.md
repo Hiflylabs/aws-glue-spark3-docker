@@ -1,8 +1,12 @@
 This repository is forked from https://github.com/alrouen/local-aws-glue-v3-zeppelin 
+# Clone this repo with lsf support
+
+    git lfs clone git@github.com:Hiflylabs/aws-glue-spark3-docker.git
+    
 
 # Build docker image
 
-    cd docker
+    cd aws-glue-spark3-docker
     docker build -t gluedev . 
 
 # Run image
